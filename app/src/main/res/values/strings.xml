@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">节目推荐</string>
+    <string name="channelTitle"> %1$s </string>
+    <string name="Program_Star">%1$d</string>
+    <string name="programTitle">%1$s</string>
+    <string name="Program_ChartHeaderStr">评论</string>
+    <string name="Program_ChoiceHeaderStr">投票</string>
+    <string name="commentStr">评论</string>
+    <string name="title_section1">title_section1</string>
+    <string name="title_section2">title_section2</string>
+    <string name="title_section3">title_section3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example Action</string>
+    <string name="action_settings">Settings</string>
+</resources>
